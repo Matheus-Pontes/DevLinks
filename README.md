@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 <br>
 
-<p align="center" style="display: flex; gap: 4px;">
+<p align="center" >
   <img alt="projeto DevLinks" src=".github/darkmode.png" width="50%">
   <img alt="projeto DevLinks" src=".github/lightmode.png" width="50%">
 </p>
